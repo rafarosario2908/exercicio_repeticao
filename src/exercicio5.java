@@ -15,17 +15,11 @@ public class exercicio5 {
 
         int atual = 0;
         int anterior = 0;
-        // int proximo;
+         //int proximo;
 
         while (contador <= 15) {
-            // proximo = atual + anterior;
-            // atual = anterior;
-            // anterior = proximo;
-
-            // System.out.println(atual);
-
-            // contador++;
-            if (contador == 1) {
+ 
+           if (contador == 1) {
                 atual = 1;
                 anterior = 0;
             } else {
